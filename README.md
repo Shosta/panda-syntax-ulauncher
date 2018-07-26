@@ -19,6 +19,13 @@ Press the `Settings` button and choose `panda` as your new theme.
 
 ![Settings ScreenShot](https://github.com/Shosta/panda-syntax-ulauncher/blob/master/ULauncherSettings.png)
 
+---
+
+## 📞 Recommended
+Panda Created for Editors and Terminals. [Panda Project](http://panda.siamak.work).
+
+[![Panda Ports](https://raw.githubusercontent.com/siamak/atom-panda-syntax/master/screenshots/ports.jpg)](http://panda.siamak.work)
+
 ## 🐼 About Pandas
 ![Pandas ScreenShot](https://raw.githubusercontent.com/siamak/atom-panda-syntax/master/screenshots/pandas.png)
 
