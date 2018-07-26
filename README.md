@@ -26,6 +26,11 @@ Panda Created for Editors and Terminals. [Panda Project](http://panda.siamak.wor
 
 [![Panda Ports](https://raw.githubusercontent.com/siamak/atom-panda-syntax/master/screenshots/ports.jpg)](http://panda.siamak.work)
 
+---
+
+## LICENSE
+![License](https://raw.githubusercontent.com/PandaTheme/Panda-Kit/master/Kit/License.jpg)
+
 ## 🐼 About Pandas
 ![Pandas ScreenShot](https://raw.githubusercontent.com/siamak/atom-panda-syntax/master/screenshots/pandas.png)
 
